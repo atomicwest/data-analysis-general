@@ -2,7 +2,7 @@
 
 Growing repo for general analysis between different file formats and sources
 * Parsing csv, txt, and Excel files with Python, using [openpyxl](http://openpyxl.readthedocs.io/en/default/index.html) and [xlsxwriter](http://xlsxwriter.readthedocs.io/contents.html)
-*   * Create dummy data for testing formulas and data pipelines
+    * Create dummy data for testing formulas and data pipelines
 * Web scraping with [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
     * Automatically download a set of files from a specified webpage with [gen-scraper.py](/webscraping/gen-scraper.py)
 
